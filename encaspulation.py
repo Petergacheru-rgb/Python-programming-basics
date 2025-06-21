@@ -1,0 +1,3 @@
+#Encaspulation
+#Abstraction
+#Modularity
